@@ -1,3 +1,5 @@
+> **Moved:** this project now lives in [oettingerj/outback](https://github.com/oettingerj/outback/tree/main/eucalyptus). This repo is archived.
+
 # Eucalyptus
 
 The shared ground under Koala and Dingo: one design system and the AppKit plumbing both apps use.
